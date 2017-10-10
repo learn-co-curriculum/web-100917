@@ -1,8 +1,8 @@
 # Module 1
-|Topic|Code|Video|
-|-|-|-|
-|Hashketball Review|No code|https://youtu.be/7H32mRmd-qg|
-|Hashes and the Internet|https://github.com/learn-co-students/web-100917/tree/master/02_hashes_and_internet|No video|
-|Intro to Object Orientation|||
-|Object Relations (one to many)|||
-|Object Relations (many to many) and Object Architecture|||
+|Date|Topic|Code|Video|
+|:--|:--|:--|:--|
+|10.09.17|Hashketball Review|No code|https://youtu.be/7H32mRmd-qg|
+|10.10.17|Hashes and the Internet|https://github.com/learn-co-students/web-100917/tree/master/02_hashes_and_internet|No video|
+|10.11.17|Intro to Object Orientation|||
+|10.12.17|Object Relations (one to many)|||
+|10.13.17|Object Relations (many to many) and Object Architecture|||
