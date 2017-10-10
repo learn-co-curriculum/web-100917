@@ -1,4 +1,8 @@
-# Module 1
+# Lecture Videos
+[**Class playlist**](https://www.youtube.com/playlist?list=PLc6AmvC5ZybyyUtlhP63_wvnvkXu3T35N)
+
+---
+## Module 1
 |Date|Topic|Code|Video|
 |:--|:--|:--|:--|
 |10.09.17|Hashketball Review|No code|[YouTube](https://youtu.be/7H32mRmd-qg)|
