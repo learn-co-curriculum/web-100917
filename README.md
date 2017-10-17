@@ -13,4 +13,5 @@
 |10.10.17|Hashes and the Internet|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/02_hashes_and_internet)|No video|
 |10.11.17|Intro to Object Orientation|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/03_intro_to_oo)|[YouTube](https://youtu.be/YXZMfZ_eb74)|
 |10.12.17|Object Relations (one to many)|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/04_object_relations)|[YouTube](https://youtu.be/oUOzCqw468I)|
-|10.13.17|Object Relations (many to many) and Object Architecture|||
+|10.13.17|Object Relations (many to many) and Object Architecture|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/05_object_architecture)||
+|10.17.17|Intro to ORM|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/06_object_relational_mapper)|[YouTube]()
