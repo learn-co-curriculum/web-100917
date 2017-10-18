@@ -15,3 +15,4 @@
 |10.12.17|Object Relations (one to many)|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/04_object_relations)|[YouTube](https://youtu.be/oUOzCqw468I)|
 |10.13.17|Object Relations (many to many) and Object Architecture|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/05_object_architecture)|[YouTube](https://youtu.be/Mteg5g6Pe24)|
 |10.17.17|Intro to ORM|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/06_object_relational_mapper)|[YouTube](https://youtu.be/2aymwPjDNd4)|
+|10.18.17|Object Orientation review|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/07_object_orientation_review)|[YouTube](https://youtu.be/RylgB6qh0E4)
