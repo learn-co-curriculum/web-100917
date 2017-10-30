@@ -8,7 +8,7 @@
 ## Module 2
 |Date|Topic|Code|Video|
 |:--|:--|:--|:--|
-|10.30.17|Intro to Internet and Sinatra|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/09_intro_sinatra)|[YouTube]()
+|10.30.17|Intro to Internet and Sinatra|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/09_intro_sinatra)|[YouTube](https://youtu.be/PmN1-cGkZlo)
 
 ## Module 1
 |Date|Topic|Code|Video|
