@@ -5,11 +5,6 @@
 <h1 style="font-size: 125%;">Lecture Videos</h1>
 <a href="https://www.youtube.com/playlist?list=PLc6AmvC5ZybyyUtlhP63_wvnvkXu3T35N">Class Playlist</a>
 
-## Module 2
-|Date|Topic|Code|Video|
-|:--|:--|:--|:--|
-|10.30.17|Intro to Internet and Sinatra|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/09_intro_sinatra)|[YouTube](https://youtu.be/PmN1-cGkZlo)
-
 ## Module 1
 |Date|Topic|Code|Video|
 |:--|:--|:--|:--|
@@ -20,5 +15,11 @@
 |10.13.17|Object Relations (many to many) and Object Architecture|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/05_object_architecture)|[YouTube](https://youtu.be/Mteg5g6Pe24)|
 |10.17.17|Intro to ORM|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/06_object_relational_mapper)|[YouTube](https://youtu.be/2aymwPjDNd4)|
 |10.18.17|Object Orientation review|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/07_object_orientation_review)|[YouTube](https://youtu.be/RylgB6qh0E4)
+
+## Module 2
+|Date|Topic|Code|Video|
+|:--|:--|:--|:--|
 |10.30.17|Intro to Internet and Sinatra|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/09_intro_sinatra)|[YouTube](https://youtu.be/PmN1-cGkZlo)
-|10.31.17|Sinatra Forms|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/10_sinatra_forms)|[YouTube](https://youtu.be/7bPUNXRXbO0)
+|10.31.17|Sinatra Forms|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/10_sinatra_forms)|[YouTube](https://youtu.be/7bPUNXRXbO0)|
+|11.01.17|Sinatra Complex Forms|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/11_sinatra_complex_forms)|[YouTube](https://youtu.be/ixhiC_ixrSc)|
+|11.02.17|Sessions and Cookies|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/12_sinatra_sessions)|[YouTube]()
