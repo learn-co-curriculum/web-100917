@@ -22,4 +22,4 @@
 |10.30.17|Intro to Internet and Sinatra|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/09_intro_sinatra)|[YouTube](https://youtu.be/PmN1-cGkZlo)
 |10.31.17|Sinatra Forms|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/10_sinatra_forms)|[YouTube](https://youtu.be/7bPUNXRXbO0)|
 |11.01.17|Sinatra Complex Forms|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/11_sinatra_complex_forms)|[YouTube](https://youtu.be/ixhiC_ixrSc)|
-|11.02.17|Sessions and Cookies|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/12_sinatra_sessions)|[YouTube]()
+|11.02.17|Sessions and Cookies|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/12_sinatra_sessions)|[YouTube](https://youtu.be/AmIgz5oOFp4)
