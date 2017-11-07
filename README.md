@@ -23,3 +23,6 @@
 |10.31.17|Sinatra Forms|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/10_sinatra_forms)|[YouTube](https://youtu.be/7bPUNXRXbO0)|
 |11.01.17|Sinatra Complex Forms|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/11_sinatra_complex_forms)|[YouTube](https://youtu.be/ixhiC_ixrSc)|
 |11.02.17|Sessions and Cookies|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/12_sinatra_sessions)|[YouTube](https://youtu.be/AmIgz5oOFp4)
+|11.03.17|Intro to Rails|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/13_intro_to_rails)|[YouTube](https://youtu.be/uXXEaLLis0A)|
+|11.06.17|Rails Forms|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/14_rails_forms/fwitter)|[YouTube](https://youtu.be/tsAIM_oLk9k)|
+|11.07.17|Rails Validations|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/14_rails_forms/fwitter)|[YouTube](https://youtu.be/hT5crOpnzR8)|
