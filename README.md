@@ -27,3 +27,4 @@
 |11.06.17|Rails Forms|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/14_rails_forms/fwitter)|[YouTube](https://youtu.be/tsAIM_oLk9k)|
 |11.07.17|Rails Validations|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/14_rails_forms/fwitter)|[YouTube](https://youtu.be/hT5crOpnzR8)|
 |11.09.17|Rails Review|[GitHub](https://github.com/sbal13/Hitchhikers-Complete)|[YouTube](https://www.youtube.com/watch?v=qclEtrL13V8)|
+|11.13.17|Rails Authentication and Authorization|[GitHub](https://github.com/RachelSa/rails-sessions-review/)|[YouTube](https://www.youtube.com/watch?v=NN-RTzjR8J8&feature=youtu.be)|
