@@ -26,3 +26,4 @@
 |11.03.17|Intro to Rails|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/13_intro_to_rails)|[YouTube](https://youtu.be/uXXEaLLis0A)|
 |11.06.17|Rails Forms|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/14_rails_forms/fwitter)|[YouTube](https://youtu.be/tsAIM_oLk9k)|
 |11.07.17|Rails Validations|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/14_rails_forms/fwitter)|[YouTube](https://youtu.be/hT5crOpnzR8)|
+|11.09.17|Rails Review|[GitHub](https://github.com/sbal13/Hitchhikers-Complete)|[YouTube](https://www.youtube.com/watch?v=qclEtrL13V8)|
