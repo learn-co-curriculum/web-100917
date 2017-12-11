@@ -34,3 +34,11 @@
 |:--|:--|:--|:--|
 |11.27.17|DOM|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/15_dom)|[YouTube]()|
 |11.28.17|AJAX / Fetch|[GitHub](https://github.com/learn-co-students/web-100917/tree/master/16_fetch)|[YouTube](https://youtu.be/KBm2yVoflgU)|
+
+
+## Module 4
+|Date|Topic|Code|Video|
+|:--|:--|:--|:--|
+|12.11.17|React, createElement & JSX| [Github (code is on master and webpack branches)](https://github.com/learn-co-curriculum/react-starter-100917/)|[Youtube](http://youtu.be/goeDYkPuapE)|
+|12.11.17|Props and State|--|[--)|
+
