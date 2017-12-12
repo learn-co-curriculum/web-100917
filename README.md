@@ -41,4 +41,5 @@
 |:--|:--|:--|:--|
 |12.11.17|React, createElement & JSX| [Github (code is on master and webpack branches)](https://github.com/learn-co-curriculum/react-starter-100917/)|[Youtube](http://youtu.be/goeDYkPuapE)|
 |12.11.17|Props and State|[Github](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917)|[Youtube](http://youtu.be/hiL4hUVx5UI)|
+|12.12.17|State, Events, Forms|[Github](https://github.com/learn-co-curriculum/100917-react-state-and-forms)|[Youtube](http://youtu.be/dnJrDmeKTwI)|
 
