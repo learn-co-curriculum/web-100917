@@ -42,5 +42,5 @@
 |12.11.17|React, createElement & JSX| [Github (code is on master and webpack branches)](https://github.com/learn-co-curriculum/react-starter-100917/)|[Youtube](http://youtu.be/goeDYkPuapE)|
 |12.11.17|Props and State|[Github](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917)|[Youtube](http://youtu.be/hiL4hUVx5UI)|
 |12.12.17|State, Events, Forms|[Github](https://github.com/learn-co-curriculum/100917-react-state-and-forms)|[Youtube](http://youtu.be/dnJrDmeKTwI)|
-|12.13.17|More Thinking in React|[Pet Finder Code](https://github.com/alexgriff/react-props-and-state-lab) \| [Painting App](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917)|Youtube link coming soon|
+|12.13.17|More Thinking in React|[Pet Finder Code](https://github.com/alexgriff/react-props-and-state-lab) \| [Painting App](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917)|[Youtube](http://youtu.be/nvFFBk-L_VI)|
 
