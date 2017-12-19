@@ -44,4 +44,6 @@
 |12.12.17|State, Events, Forms|[Github](https://github.com/learn-co-curriculum/100917-react-state-and-forms)|[Youtube](http://youtu.be/dnJrDmeKTwI)|
 |12.13.17|More Thinking in React|[Pet Finder Code](https://github.com/alexgriff/react-props-and-state-lab) \| [Painting App](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917)|[Youtube](http://youtu.be/nvFFBk-L_VI)|
 |12.15.17|Component Lifecycle|[Lecture Code](https://github.com/learn-co-students/mod-4-component-lifecycle-lecture-web-100917) \| [Painting App](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917)|[Youtube](https://youtu.be/VviCiyNtFC4)|
+|12.19.17|React Router|[Github (router branch)](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917/tree/router)|[Youtube](http://youtu.be/lps-Eq2QWxk)|
+
 
