@@ -38,6 +38,8 @@
 
 ## Module 4
 [Auth Template](https://gist.github.com/alexgriff/414a05a0b6908145f050888e073df7ff)
+
+
 |Date|Topic|Code|Video|
 |:--|:--|:--|:--|
 |12.11.17|React, createElement & JSX| [Github (code is on master and webpack branches)](https://github.com/learn-co-curriculum/react-starter-100917/)|[Youtube](http://youtu.be/goeDYkPuapE)|
