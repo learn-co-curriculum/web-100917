@@ -37,8 +37,10 @@
 
 
 ## Module 4
-[Auth Template](https://gist.github.com/alexgriff/414a05a0b6908145f050888e073df7ff)
+#### Links
+* [Auth Template](https://gist.github.com/alexgriff/414a05a0b6908145f050888e073df7ff)
 
+#### Videos
 
 |Date|Topic|Code|Video|
 |:--|:--|:--|:--|
