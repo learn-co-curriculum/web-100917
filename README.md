@@ -51,6 +51,6 @@
 |12.15.17|Component Lifecycle|[Lecture Code](https://github.com/learn-co-students/mod-4-component-lifecycle-lecture-web-100917) \| [Painting App](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917)|[Youtube](https://youtu.be/VviCiyNtFC4)|
 |12.19.17|React Router|[Github (router branch)](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917/tree/router)|[Youtube](http://youtu.be/lps-Eq2QWxk)|
 |12.21.17|Auth pt i|[Frontend (auth branch)](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917/tree/auth) \| [Backend (auth-100917 branch)](https://github.com/alexgriff/painting-example-app-backend/tree/auth-100917)|[Youtube](http://youtu.be/iuUXtolR0p0)|
-|12.21.17|Auth pt ii|same code as above|[Youtube](http://youtu.be/iuUXtolR0p0)|
+|12.21.17|Auth pt ii|same code as above|[Youtube](http://youtu.be/OdNiDekEGIw)|
 
 
