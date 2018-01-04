@@ -60,5 +60,6 @@
 
 #### Videos
 * [Redux pt i](http://youtu.be/yUWF6MkjbCQ) | [Code (snow-day branch)](https://github.com/learn-co-curriculum/prep-for-redux)
+* Redux pt ii(video coming soon) | [Code same repo as above (lecture-2 branch & array-challenge-solution branch)](https://github.com/learn-co-curriculum/prep-for-redux)
 
 
