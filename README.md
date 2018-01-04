@@ -53,4 +53,9 @@
 |12.21.17|Auth pt i|[Frontend (auth branch)](https://github.com/learn-co-curriculum/react-painting-example-app-web-100917/tree/auth) \| [Backend (auth-100917 branch)](https://github.com/alexgriff/painting-example-app-backend/tree/auth-100917)|[Youtube](http://youtu.be/iuUXtolR0p0)|
 |12.21.17|Auth pt ii|same code as above|[Youtube](http://youtu.be/OdNiDekEGIw)|
 
+## Redux
+
+#### Links
+* [Redux Terminology Cheat Sheet](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6)
+
 
