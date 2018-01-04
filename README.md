@@ -58,4 +58,7 @@
 #### Links
 * [Redux Terminology Cheat Sheet](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6)
 
+#### Videos
+* [Redux pt i](http://youtu.be/yUWF6MkjbCQ) | [Code (snow-day branch)](https://github.com/learn-co-curriculum/prep-for-redux)
+
 
