@@ -62,5 +62,6 @@
 * [Redux pt i](http://youtu.be/yUWF6MkjbCQ) | [Code (snow-day branch)](https://github.com/learn-co-curriculum/prep-for-redux)
 * [Redux pt ii](http://youtu.be/Vx49ANoUGpw) | [Code same repo as above (lecture-2 branch & array-challenge-solution branch)](https://github.com/learn-co-curriculum/prep-for-redux)
 * [DIY Redux](http://youtu.be/_Wh9W9VfAms) | [Code same repo as above (lecture-2 branch)](https://github.com/learn-co-curriculum/prep-for-redux)
+* [Redux Review Group](http://youtu.be/Fc34dyEYyPM) | [Code](https://github.com/learn-co-curriculum/redux-warmup-challenge-add-features)
 
 
