@@ -67,4 +67,7 @@
 * [DIY Redux](http://youtu.be/_Wh9W9VfAms) | [Code same repo as above (lecture-2 branch)](https://github.com/learn-co-curriculum/prep-for-redux)
 * [Redux Review Group](http://youtu.be/Fc34dyEYyPM) | [Code](https://github.com/learn-co-curriculum/redux-warmup-challenge-add-features)
 
+## Computer Science
+* [Recursion Workshop](http://youtu.be/9LLMnoP0SAU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
+
 
