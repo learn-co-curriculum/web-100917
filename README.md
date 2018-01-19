@@ -70,5 +70,7 @@
 ## Computer Science
 * [Recursion Workshop](http://youtu.be/9LLMnoP0SAU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
 * [Big O](http://youtu.be/9SDwnL1SVfk)
+* [Bits, Bytes, Array, Linked Lists] _coming soon_
+* [Sorting](http://youtu.be/gybLbTQvMxI) | [Code & Links to Resources](https://github.com/alexgriff/intro-to-sorting)
 
 
