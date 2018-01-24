@@ -70,7 +70,7 @@
 ## Computer Science
 * [Recursion Workshop](http://youtu.be/9LLMnoP0SAU) | [Exercises](https://github.com/alexgriff/wdf_recursion_exercises)
 * [Big O](http://youtu.be/9SDwnL1SVfk)
-* [Bits, Bytes, Array, Linked Lists] _coming soon_
+* [Bits, Bytes, Array, Linked Lists] _coming soon_ | [Code](https://github.com/DanielSeehausen/cs-concentration-schedule/tree/master/day1)
 * [Sorting](http://youtu.be/gybLbTQvMxI) | [Code & Links to Resources](https://github.com/alexgriff/intro-to-sorting)
 * [Binary Search Trees](http://youtu.be/Iue2kJBp8DQ) | [Code & resources on Breadth First vs Depth first](https://github.com/learn-co-curriculum/intro-bst)
 
